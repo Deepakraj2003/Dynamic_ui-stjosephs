@@ -1,0 +1,35 @@
+{
+  "comp": {
+    "default": {
+      "name": "DynamicButton",
+      "class": "btn",
+      "text": "submit",
+      "style": {
+        "margin-top": "3%",
+        "padding": "10px",
+        "background-color": "#80aeee",
+        "color": "white",
+        "border": "none",
+        "cursor": "pointer",
+        "border-radius": "20%"
+      }
+    },
+    "link": {
+      "name": "badge",
+      "class": "anchor",
+      "text": "submit",
+      "style": {
+        "display": "inline-block",
+        "padding": "4px 8px",
+        "border-radius": "10px",
+        "background-color": "#007bff",
+        "color": "#fff"
+      }
+    },
+    "arrow": {
+      "name": "arrow",
+      "class": "arrow",
+      "text": "->"
+    }
+  }
+}
